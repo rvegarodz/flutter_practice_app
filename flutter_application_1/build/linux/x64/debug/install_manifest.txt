@@ -1,0 +1,11 @@
+/home/rafael/project_files/test_flutter2/flutter_practice_app/flutter_application_1/build/linux/x64/debug/bundle/flutter_application_1
+/home/rafael/project_files/test_flutter2/flutter_practice_app/flutter_application_1/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/rafael/project_files/test_flutter2/flutter_practice_app/flutter_application_1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/rafael/project_files/test_flutter2/flutter_practice_app/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/rafael/project_files/test_flutter2/flutter_practice_app/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/rafael/project_files/test_flutter2/flutter_practice_app/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/rafael/project_files/test_flutter2/flutter_practice_app/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/rafael/project_files/test_flutter2/flutter_practice_app/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/rafael/project_files/test_flutter2/flutter_practice_app/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/rafael/project_files/test_flutter2/flutter_practice_app/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/rafael/project_files/test_flutter2/flutter_practice_app/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf

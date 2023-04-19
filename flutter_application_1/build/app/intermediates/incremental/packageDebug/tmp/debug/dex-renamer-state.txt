@@ -1,0 +1,4 @@
+#Wed Apr 19 13:52:23 AST 2023
+base.0=/home/rafael/project_files/test_flutter2/flutter_application_1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
